@@ -62,6 +62,9 @@ will not resolve in the global DNS, but can be configured within closed networks
 as the network operator sees fit. It fulfils a similar purpose as private-use
 IP address ranges that are set aside (e.g. {{RFC1918}}).
 
+This document gives the rationale for the decision made by IANA and the ICANN Board to reserve
+the "internal" top-level domain after an extensive public comment period.
+
 # Terminology
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
